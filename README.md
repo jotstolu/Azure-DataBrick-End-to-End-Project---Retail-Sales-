@@ -21,7 +21,7 @@ The architecture leverages:
 
 The Databricks workflow is orchestrated as shown below:
 
-![Databricks Workflow Pipeline](./databricks workflow pipeline.png)
+![Databricks Workflow Pipeline](https://github.com/jotstolu/Azure-DataBrick-End-to-End-Project---Retail-Sales-/blob/main/asset/databricks%20workflow%20pipeline.png?raw=true)
 
 ### 🔹 Stages in the Pipeline
 
@@ -39,6 +39,7 @@ The notebooks follow the **medallion architecture**:
 
 ```
 retail_orders/
+├── lookup Notebook.python
 ├── Bronze Layer.python
 ├── Silver_Customers.python
 ├── Silver_Orders.python
@@ -47,7 +48,7 @@ retail_orders/
 ├── Gold_Customers.python
 ├── Gold_Products.python
 ├── Gold Orders.python
-├── lookup Notebook.python
+
 
 ```
 
