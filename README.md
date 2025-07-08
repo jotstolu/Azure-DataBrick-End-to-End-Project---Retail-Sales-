@@ -15,13 +15,13 @@ The architecture leverages:
 
 ### 🗺️ Architecture
 
-![Retail Data Architecture](./retail%20data%20architecture.drawio.png)
+![Retail Data Architecture](./retail%20data%20architecture.dra.png)
 
 ## 🔁 Pipeline Workflow
 
 The Databricks workflow is orchestrated as shown below:
 
-![Databricks Workflow Pipeline](./databricks%20workflow%20pipeline.png)
+![Databricks Workflow Pipeline](./databricks workflow pipeline.png)
 
 ### 🔹 Stages in the Pipeline
 
