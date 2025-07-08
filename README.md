@@ -15,7 +15,7 @@ The architecture leverages:
 
 ### 🗺️ Architecture
 
-![Retail Data Architecture](./retail%20data%20architecture.dra.png)
+![Retail Data Architecture](https://github.com/jotstolu/Retail-Orders-End-to-End-Data-Engineering-Project-using-Azure-Databricks/blob/main/asset/retail%20data%20architecture.drawio.png?raw=true)
 
 ## 🔁 Pipeline Workflow
 
