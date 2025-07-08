@@ -1,4 +1,4 @@
-# 🛍️ Retail Orders End-to-End Data Pipeline using Azure & Databricks
+# 🛍️ Retail Orders End-to-End Data Engineering Project using Azure & Databricks
 
 This project demonstrates the development of a scalable end-to-end data pipeline for processing and reporting retail order data using **Azure Cloud services**, **Delta Lake architecture**, and **Databricks**.
 
